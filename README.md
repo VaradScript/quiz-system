@@ -1,109 +1,107 @@
-# MyQuiz - PHP/MySQL Quiz Application
 
-A dynamic quiz application built with PHP and MySQL that allows users to take quizzes, track scores, and manage quiz content.
 
-## Features
+<h1 align="center" style="font-weight: bold;">Quiz mangement </h1>
 
-- User authentication and registration
-- Multiple choice questions
-- Real-time score tracking
-- Admin panel for quiz management
-- Responsive design
-- Score history and statistics
-- Timer for each quiz
-- Leaderboard system
+<p align="center">
 
-## Requirements
 
-- PHP 7.4+
-- MySQL 5.7+
-- Apache/Nginx web server
-- Composer for dependency management
+<a href="#colab">Collaborators</a>
+<a href="#contribute">Contribute</a> 
+</p>
 
-## Installation
 
-1. Clone the repository:
+<p align="center">A dynamic quiz application built with PHP and MySQL that allows users to take quizzes, track scores, and manage quiz content.</p>
+
+
+<p align="center">
+<a href="https://github.com/VaradScript/quiz-system">📱 Visit this Project</a>
+</p>
+
+<h2 id="layout">🎨 Layout</h2>
+
+<p align="center">
+
+<img src="https://picsum.photos/1080/1920" alt="Random Image" width="400px">
+</p>
+
+<h2 id="technologies">💻 Technologies</h2>
+
+User authentication and registration
+Multiple choice questions
+Real-time score tracking
+Admin panel for quiz management
+Responsive design
+Score history and statistics
+Timer for each quiz
+Leaderboard system
+
+<h2 id="started">🚀 Getting started</h2>
+
+Here you describe how to run your project locally
+
+<h3>Prerequisites</h3>
+
+PHP 7.4+
+MySQL 5.7+
+Apache/Nginx web server
+Composer for dependency management
+- [NodeJS](https://github.com/)
+- [Git 2](https://github.com)
+
+<h3>Cloning</h3>
+
+How to clone your project
+
 ```bash
-git clone https://github.com/yourusername/myquiz.git
-```
+git clone https://github.com/yourusername/myquiz.git```
 
-2. Import the database schema:
+<h3>Starting</h3>
+
+How to start your project
+
 ```bash
-mysql -u username -p database_name < database/quiz.sql
+cd project-name
+npm some-command-to-run
 ```
 
-3. Configure database connection:
-```bash
-cp config/config.example.php config/config.php
-# Edit config.php with your database credentials
-```
+<h2 id="colab">🤝 Collaborators</h2>
 
-4. Install dependencies:
-```bash
-composer install
-```
+<p>Special thank you for all people that contributed for this project.</p>
+<table>
+<tr>
 
-5. Set proper permissions:
-```bash
-chmod 755 -R storage/
-chmod 644 config/config.php
-```
+<td align="center">
+<a href="https://github.com/Fernanda-Kipper">
+<img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+<sub>
+<b>Fernanda Kipper</b>
+</sub>
+</a>
+</td>
 
-## Database Structure
+<td align="center">
+<a href="https://github.com/ShaanCoding">
+<img src="https://avatars.githubusercontent.com/u/22236218?v=4" width="100px;" alt="Shaan Khan Profile Picture"/><br>
+<sub>
+<b>Shaan Khan</b>
+</sub>
+</a>
+</td>
 
-```sql
--- Main tables
-quiz_users
-quiz_questions
-quiz_answers
-quiz_results
-quiz_categories
-```
+</tr>
+</table>
 
-## Usage
+<h2 id="contribute">📫 Contribute</h2>
 
-1. Access the application through your web browser
-2. Register a new account or login
-3. Select a quiz category
-4. Start answering questions
-5. View your results and compare with others
+Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
 
-## Admin Panel
+1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
+2. `git checkout -b feature/NAME`
+3. Follow commit patterns
+4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
 
-Access `/admin` with admin credentials to:
-- Add/Edit questions
-- Manage users
-- View statistics
-- Create new quizzes
+<h3>Documentations that might help</h3>
 
-## Security
+[📝 How to create a Pull Request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
 
-- SQL injection prevention
-- XSS protection
-- CSRF tokens
-- Password hashing
-- Input validation
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername)
-Project Link: [https://github.com/yourusername/myquiz](https://github.com/yourusername/myquiz)
-
-## Acknowledgments
-
-- PHP Documentation
-- MySQL Documentation
-- Bootstrap for UI components
-- Contributors and testers
+[💾 Commit pattern](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
