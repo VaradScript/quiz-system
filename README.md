@@ -64,8 +64,9 @@ npm some-command-to-run
 <tr>
 
 <td align="center">
-<a href="https://github.com/Fernanda-Kipper">
-<img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Fernanda Kipper Profile Picture"/><br>
+<a href="https://github.com/VaradScript">
+<img src="https://avatars.githubusercontent.com/u/108749445?v=4" width="100px;" alt="VaradScript Profile Picture"/><br>
+
 <sub>
 <b>Fernanda Kipper</b>
 </sub>
@@ -73,8 +74,8 @@ npm some-command-to-run
 </td>
 
 <td align="center">
-<a href="https://github.com/ShaanCoding">
-<img src="https://avatars.githubusercontent.com/u/22236218?v=4" width="100px;" alt="Shaan Khan Profile Picture"/><br>
+<a href="https://github.com/haydenbanz">
+<img src="https://avatars.githubusercontent.com/u/67865621?v=4" width="100px;" alt=" haydenbanz Profile Picture"/><br>
 <sub>
 <b>Shaan Khan</b>
 </sub>
@@ -86,7 +87,6 @@ npm some-command-to-run
 
 <h2 id="contribute">📫 Contribute</h2>
 
-Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
 
 1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
 2. `git checkout -b feature/NAME`
