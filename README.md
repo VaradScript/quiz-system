@@ -39,15 +39,14 @@ PHP 7.4+
 MySQL 5.7+
 Apache/Nginx web server
 Composer for dependency management
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
+
 
 <h3>Cloning</h3>
 
 How to clone your project
 
 ```bash
-git clone https://github.com/yourusername/myquiz.git```
+git clone https://github.com/VaradScript/myquiz.git```
 
 <h3>Starting</h3>
 
