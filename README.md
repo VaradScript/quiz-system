@@ -17,12 +17,6 @@
 <a href="https://github.com/VaradScript/quiz-system">📱 Visit this Project</a>
 </p>
 
-<h2 id="layout">🎨 Layout</h2>
-
-<p align="center">
-
-<img src="https://picsum.photos/1080/1920" alt="Random Image" width="400px">
-</p>
 
 <h2 id="technologies">💻 Technologies</h2>
 
