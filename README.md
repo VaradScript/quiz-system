@@ -19,15 +19,14 @@
 
 
 <h2 id="technologies">💻 Technologies</h2>
-
-User authentication and registration
-Multiple choice questions
-Real-time score tracking
-Admin panel for quiz management
-Responsive design
-Score history and statistics
-Timer for each quiz
-Leaderboard system
+Features
+*User Authentication and Registration: Users can log in or register to participate in quizzes.
+*Multiple Choice Questions: Supports creating and answering multiple-choice questions.
+*Real-time Score Tracking: Displays scores immediately after quiz completion.
+*Admin Panel: Allows admins to manage quiz content and users.
+*Responsive Design: Ensures usability across different devices.
+*Score History and Statistics: Users can view their past performance.
+*Timer and Leaderboard: Tracks time for each quiz and displays top performers
 
 <h2 id="started">🚀 Getting started</h2>
 
@@ -46,15 +45,9 @@ Composer for dependency management
 How to clone your project
 
 ```bash
-git clone https://github.com/VaradScript/myquiz.git```
+git clone https://github.com/VaradScript/quiz-system.git
+git clone https://github.com/VaradScript/quiz-system.git
 
-<h3>Starting</h3>
-
-How to start your project
-
-```bash
-cd project-name
-npm some-command-to-run
 ```
 
 <h2 id="colab">🤝 Collaborators</h2>
