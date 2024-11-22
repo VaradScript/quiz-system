@@ -10,7 +10,9 @@
 </p>
 
 
-<p align="center">A dynamic quiz application built with PHP and MySQL that allows users to take quizzes, track scores, and manage quiz content.</p>
+<p align="center">The repository for the "Quiz System" you shared outlines a dynamic quiz application built using PHP and MySQL. Here are the key features and setup instructions mentioned in the README file:
+
+.</p>
 
 
 <p align="center">
@@ -20,13 +22,13 @@
 
 <h2 id="technologies">💻 Technologies</h2>
 Features
-*User Authentication and Registration: Users can log in or register to participate in quizzes.
-*Multiple Choice Questions: Supports creating and answering multiple-choice questions.
-*Real-time Score Tracking: Displays scores immediately after quiz completion.
-*Admin Panel: Allows admins to manage quiz content and users.
-*Responsive Design: Ensures usability across different devices.
-*Score History and Statistics: Users can view their past performance.
-*Timer and Leaderboard: Tracks time for each quiz and displays top performers
+*User Authentication and Registration: Users can log in or register to participate in quizzes.<br>
+*Multiple Choice Questions: Supports creating and answering multiple-choice questions.<br>
+*Real-time Score Tracking: Displays scores immediately after quiz completion.<br>
+*Admin Panel: Allows admins to manage quiz content and users.<br>
+*Responsive Design: Ensures usability across different devices.<br>
+*Score History and Statistics: Users can view their past performance.<br>
+*Timer and Leaderboard: Tracks time for each quiz and displays top performers<br>
 
 <h2 id="started">🚀 Getting started</h2>
 
