@@ -48,7 +48,6 @@ How to clone your project
 
 ```bash
 git clone https://github.com/VaradScript/quiz-system.git
-git clone https://github.com/VaradScript/quiz-system.git
 
 ```
 
@@ -83,10 +82,9 @@ git clone https://github.com/VaradScript/quiz-system.git
 <h2 id="contribute">📫 Contribute</h2>
 
 
-1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
-2. `git checkout -b feature/NAME`
-3. Follow commit patterns
-4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+1. `git clone https://github.com/VaradScript/quiz-system.git`
+2. Follow commit patterns
+3. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
 
 <h3>Documentations that might help</h3>
 
