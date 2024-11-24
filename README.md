@@ -62,7 +62,7 @@ git clone https://github.com/VaradScript/quiz-system.git
 <img src="https://avatars.githubusercontent.com/u/108749445?v=4" width="100px;" alt="VaradScript Profile Picture"/><br>
 
 <sub>
-<b>Fernanda Kipper</b>
+<b>VaradScriptr</b>
 </sub>
 </a>
 </td>
@@ -71,7 +71,7 @@ git clone https://github.com/VaradScript/quiz-system.git
 <a href="https://github.com/haydenbanz">
 <img src="https://avatars.githubusercontent.com/u/67865621?v=4" width="100px;" alt=" haydenbanz Profile Picture"/><br>
 <sub>
-<b>Shaan Khan</b>
+<b>haydenbanz</b>
 </sub>
 </a>
 </td>
