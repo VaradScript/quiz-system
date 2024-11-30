@@ -38,9 +38,8 @@ Here you describe how to run your project locally
 
 PHP 7.4+
 MySQL 5.7+
-Apache/Nginx web server
-Composer for dependency management
-
+Apache
+run in xamp server.
 
 <h3>Cloning</h3>
 
