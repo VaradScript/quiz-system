@@ -2,12 +2,6 @@
 
 <h1 align="center" style="font-weight: bold;">Quiz mangement </h1>
 
-<p align="center">
-
-
-<a href="#colab">Collaborators</a>
-<a href="#contribute">Contribute</a> 
-</p>
 
 
 <p align="center">The repository for the "Quiz System" you shared outlines a dynamic quiz application built using PHP and MySQL. Here are the key features and setup instructions mentioned in the README file:
