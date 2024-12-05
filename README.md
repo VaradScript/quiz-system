@@ -31,7 +31,7 @@ Here you describe how to run your project locally
 <h3>Prerequisites</h3>
 
 PHP 7.4+,
-MySQL 5.7+
+MySQL 5.7+,
 Apache
 run in xamp server.
 
