@@ -37,7 +37,7 @@ run in xamp server.
 
 <h3>Cloning</h3>
 
-How to clone your project
+How to clone your project:
 
 ```bash
 git clone https://github.com/VaradScript/quiz-system.git
