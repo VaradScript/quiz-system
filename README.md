@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="font-weight: bold;">Quiz mangement </h1>
+<h1 align="center" style="font-weight: bold;">Quiz Mangement </h1>
 
 
 
