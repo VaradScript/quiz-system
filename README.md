@@ -4,7 +4,7 @@
 
 
 
-<p align="center">The repository for the "Quiz System" you shared outlines a dynamic quiz application built using PHP and MySQL. Here are the key features and setup instructions mentioned in the README file:
+<p align="center">The repository for the "Quiz System" you shared outlines a dynamic quiz application built using PHP and MySQL. Here are the key features and setup instructions mentioned in the README file.
 
 .</p>
 
